@@ -915,7 +915,7 @@ a:hover, a:focus, a:active {
 
 .probootstrap-footer {
   padding: 7em 0;
-  background: #1d1d1d;
+  background-image: url("img/fondoPrueba.jpg");
   color: rgba(255, 255, 255, 0.3);
 }
 
