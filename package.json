@@ -29,6 +29,7 @@
         "url": "https://github.com/BlackrockDigital/startbootstrap-the-big-picture.git"
     },
     "dependencies": {
+        "bcrypt": "^3.0.6",
         "bootstrap": "4.3.1",
         "bxslider": "^4.2.14",
         "jquery": "3.4.1"
