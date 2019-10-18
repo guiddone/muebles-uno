@@ -4,12 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/master/LICENSE)
  */
 body {
-  background: url('../img/fondoFooter.jpg') no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
-
+ 
 
 }
 
@@ -19,11 +14,22 @@ body {
 	z-index: 1;
 }
 
-#container {
-    width: 100%;
-    /*padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;*/
+#fondo-home {
+   background: url('../img/fondoFooter.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
 }
+
+#fondoCatalogos {
+  /*background-color: rgba(1, 1, 1, 0.7);*/
+  background: url(../img/fondoCatalogos.jpg) no-repeat center center fixed;
+  
+ background-repeat: no-repeat;
+ background-size: 100% 100%;
+ 
+ 
+
+ }
 
