@@ -14,13 +14,6 @@ body {
 	z-index: 1;
 }
 
-#fondo-home {
-   background: url('../img/fondoFooter.jpg') no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
-}
 
 #fondoCatalogos {
   /*background-color: rgba(1, 1, 1, 0.7);*/
